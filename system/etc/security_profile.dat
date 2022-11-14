@@ -1,0 +1,96 @@
+Thu, 15 Oct 2020 20:12:32 +0900
+:TZ_DRM
+Number of modules
+11
+system/bin/mediaserver
+52ce68bf35d92f3a86aafb6c0f2a5b6284b2ad241ae2196d507b35db36648269
+system/bin/drmserver
+b5eac32456a43d16916e6d3fd0adc57d5247ebaf7462275112fb673ee564e950
+system/lib/libstagefright.so
+e31da1270e3e583e814a78f13113b4b4743788aef661501cafee9b5197e8c97a
+system/lib/libdrmframework.so
+5cabbb2205f4cc431dfe966c4e3e7129b7440dcdcd03e9c01ce3847af706911d
+system/lib/libdrmframework_jni.so
+29f9da8c96006fdb7be00c425a3ada7227bd6a2a7521eb04e18ae902ab7f8b22
+system/lib/libhdcp2.so
+bba931f5d4bc2e48ecb7c17bf65c2dcd8d24ae0d4259faf84f98a6977c9a2d34
+system/lib/libstagefright_hdcp.so
+b5a0781f5834715f4497ca2abfdbcb32c1454cdae6a2e077fa82968066a8c572
+system/lib/omx/libOMX.Exynos.AVC.Decoder.so
+e0c1beba5a1cf56b95ba40bf790f61ee782bc3c4d01f183a33021d4fc0eb135a
+system/lib/libExynosOMX_Core.so
+dfc3e28a96e59f97d917c0dee855d18f60948938531347c2374563a608096da5
+system/lib/libExynosOMX_Resourcemanager.so
+8d01e559e89d0d95598232f3bb4ef7d4c8b61fe7e9ce0f912ba93bd3eb64a49d
+system/vendor/firmware/mfc_fw.bin
+dc7ddca9fdb479b1806fd1d3ee3e165b1854529d2b53a0ba1f03fe770a815b28
+:FIDD
+Number of modules
+4
+system/vendor/lib/libMcClient.so
+c2948bf2430fff3b7152e72ef545955db3857b9c847edd4f329cdd9c7e175aed
+system/vendor/lib/libMcRegistry.so
+5fb87ca33baff79eaebb4e497defec6cd41fb7a97aae5f6e09278c69da1d1ca0
+system/bin/mcDriverDaemon
+dd7a4bfcf1a720d84b04ef3f86d9194c79468806b879bbabda226592fe02bee6
+system/bin/fingerprintd
+6b8cc7561effe19ee20583ac87d02aa19382073958c6011ddd064d1e2841b144
+:CC
+Number of modules
+25
+system/bin/app_process
+b08e3af20b6dbb9352c3ac536121fd4316d884b730dfd88d7013157e4ec5e64d
+system/bin/dalvikvm
+7a48d8ad9cf533be3289b533342985ffe66b917dfd6fa93a2e1e5a4e6540d5ef
+system/bin/mcDriverDaemon
+dd7a4bfcf1a720d84b04ef3f86d9194c79468806b879bbabda226592fe02bee6
+system/lib/libcrypto.so
+51435a0e806c2c1d24a734d2e02dca7e6fbf3ad826d513b94095fc4661f42f61
+system/lib/libjavacrypto.so
+4d927ca4afbaccb1baee77184ae3c7d699c203563ed179383a87bc93105b5e86
+system/lib/libssl.so
+00d5da6664bc406949f023291ec4a7ca1960c08903cef8059821560b5c1429e3
+system/lib/libSecurityManagerNative.so
+9115f3c29a7ae901c3ab062ca617b9b228869c2d7f1e4e4b07f25f560ef66805
+system/bin/vold
+2329e447af73428d223d5cca7027d4726a8e629177997caf974f708d17e59ec9
+system/lib/libsec_ode_pbkdf.so
+2b59da12088902f1abd79b17c88f5f9f23273d125f8e95d047a3cc7d38476887
+system/bin/keystore
+0d4ee8e6c01f05aaa303829e8c36c0201022da73e6dd60085b850bf461d1697c
+system/bin/gatekeeperd
+0fa21dfeeaa1e63ec59429975ea2f5ae79222d5d90a6b0a524569a0d3d406957
+system/lib/libsoftkeymaster.so
+59f94951228f3eab576823c4870e3ac299d496a2eff409faaf2c53a46c64f07b
+system/lib/libskmm.so
+9541c0c002bd93295b844303404fbe65c8d8fb9415cc1313f25d95b078bf276d
+system/lib/libskmm_helper.so
+f2226ad3eaafd90d54c4442b5aa7bd6ab518f2275ec0402c5023dd3aceaae8ed
+system/lib/libkeystore_binder.so
+8d350b9b52286f8facb117f95b3281f1b5dac37137885352d13e2ba2e5c4ed98
+system/bin/charon
+6a46d4a4b7533524e11165a5a0b4a37626a4e12bf80b17c2e2d4f9572b0f673c
+system/bin/sdp_cryptod
+b8aa6634151186bad11c07e6abe9040428f74b7ed39be6b9fc0701a562603b06
+system/lib/libknox_km.so
+22fc3e2dbc44649db1dfd127ed1c10cb5f0b8ddbb8fc5257100955f94ec03a7c
+system/lib/libsdp_crypto.so
+172876f155a2c8a61e8fb74ed68ff64a15927459a7a0ff13bab882c88849156b
+system/lib/libsdp_kekm.so
+0003d70619ae98f9327f9001d05a1c4d5cf5f8060ee380c2a2525257e534f54b
+system/lib/libsdp_sdk.so
+5422a4ff5567afe4f4fe1582e051ba3de5a73537c44ab5a2fe1b8ef9e242d2d5
+system/bin/wpa_supplicant
+a03bb8b74cbca987283a923251654988bdec347efa82e612ed8705e3b7d7f2f2
+system/bin/macloader
+7735fb3a22f59ecacd3c15884af8c4eaddfd980c9059ea8e51648ed0aca8d6ec
+system/bin/mfgloader
+b2ae9969aed71a973bd47f31ba3f9841245d5068a1a7661005485523bc80e817
+system/bin/wlandutservice
+9a35e18307c3fd482de98d061c98344fc4dabfaeb52f173680e2dd93077bdd5e
+:SYSSCOPE
+Number of modules
+1
+system/app/SysScope/SysScope.apk
+943cf64d7a0ce48433da053b7da9272e4ff860f6fa13cccaea25a96297343228
+1O˚ÍlAcHø#∏®Aœ´ê[’∏ß	˛´T°SL—ÑîßÄ∫éàì{êöp«£6NÆÑmUWkÀ°"W≠Ö ç<0zû€\BòÓ‹e–›î |(37FâwNdg@øπ	S≠r¢ù¨tÓqM‰0Aﬁ´∏A—V6øze9s”peÈ_ó„hQ˘‘0¶A˘l	êœ3wì¶¸‚ìÃ˛Ø_Ôœçx˝—¢JZ≈ä®Î∂S‰EU≠ˆ∑jgîOJ–≈Y`«KÎCÄ˘òD e◊olIX6êÇÊ0áëAˇy˚7ˆÓXó$"‹E…»Caar*dAœ˚≥·‰Û
